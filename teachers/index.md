@@ -1,1 +1,1 @@
-[邱才颙](qiucaiyong/)
+[邱才颙](../qiucaiyong/)
