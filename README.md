@@ -1,1 +1,5 @@
-# szms-math.github.io
+# 深圳中学数学科组
+
+[教师主页](teachers/)
+
+[领军计划](math/)
